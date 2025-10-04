@@ -1,44 +1,41 @@
 # 🐍 Python Playground  
 
-### 👋 Hello there!  
-Welcome to my personal Python playground — a place where I learn, test, and create.  
-Every file here is part of my journey to become a professional AI & software developer. 🚀  
+> “Learning by building — one commit at a time.” 💻✨  
+
+Welcome to my personal **Python playground** — a place where I experiment, learn, and grow as a developer.  
+Every file here represents a step in my journey to becoming a **professional AI & software developer.** 🚀  
 
 ---
 
 ### 📘 About  
 This repository contains:
-- 🔹 Small Python practice scripts  
-- 🔹 Step-by-step learning projects  
-- 🔹 Logic, math, and condition examples  
-- 🔹 Experiments with loops, functions, and file handling  
+- 🧩 Small Python practice scripts  
+- 🧠 Step-by-step learning mini-projects  
+- 🔢 Math, logic, and condition examples  
+- 🔁 Experiments with loops, functions, and data structures  
 
-Each file is a milestone — showing how I grow in coding day by day. 🌱  
+Each file is like a small milestone — showing my coding growth **day by day** 🌱  
 
 ---
 
-### 🧠 Technologies Used  
+### 🧰 Technologies Used  
 - Python 3.x  
 - Notepad++ / PyCharm / VS Code  
 - Git & GitHub Desktop  
 
 ---
 
-### 🌟 Goals  
-✔️ Improve logic and problem-solving  
-✔️ Learn algorithms and automation  
-✔️ Build strong foundations for AI and Data Science  
+### 📸 Example Preview  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51fe5cae-c96a-4acf-a919-8c8024823e0f" width="420">
+</p>  
 
 ---
 
-### ✨ Author  
-👤 **Muhammed Can Özkesemen**  
-💬 “Learning every day — one line of code at a time.”  
-
-📫 [GitHub Profile](https://github.com/MuhammedCanOzkesemen)  
+### 🌍 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammed-can-%C3%B6zkesemen-66831b299/)  
+- 🧑‍💻 [GitHub Profile](https://github.com/MuhammedCanOzkesemen)  
 
 ---
 
-### 🚀 Latest Update  
-**Day 1:** Created first Python file `start.py` — variables, math, and logic exercises 🔥  
-More coming soon...
+✨ *"Small progress every day adds up to big results."*  
