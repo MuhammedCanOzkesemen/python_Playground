@@ -20,7 +20,7 @@ numbers = list(range(1, 11))
 print("Numbers ", numbers)
 
 random.shuffle(numbers)
-print("Shuffled:", numbers)
+print("Shuffled:", numbers) 
 
 # mini lottery
 lottery = random.sample(range(1, 50), 6)
@@ -34,3 +34,4 @@ if guess == secret:
     print("You got it")
 else:
     print("Nope! Secret was", secret)
+
