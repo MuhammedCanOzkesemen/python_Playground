@@ -71,3 +71,5 @@ This repository is part of my journey to become a high-level developer.
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/mcan-ozkesemen-66831b299/
+
+Author: Muhammed Can Özkesemen
